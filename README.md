@@ -1,11 +1,10 @@
-<img src="https://github.com/Signor1/Signor1/blob/f5f23cabb831d3b0d6583446e4a67e0f1730a8c0/header.png">
+<img src="https://github.com/Signor1/Signor1/blob/f4653768b9862da5bc89232b1f2e5bb514a579f0/file1.png" width="40%" height="300" align="right">
 
 <h1 align="center">Hi 👋, I'm Emmanuel Omemgboji</h1>
-<h3 align="center">Welcome to my gitHub profile. I'm a passionate Web developer and a techie.</h3>
+<h3 align="center">Welcome to my gitHub profile. I'm a passionate Web developer and a Techie.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=signor1&label=Profile%20views&color=0e75b6&style=flat" alt="signor1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=signor1" alt="signor1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/onesignor" target="blank"><img src="https://img.shields.io/twitter/follow/onesignor?logo=twitter&style=for-the-badge" alt="onesignor" /></a> </p>
 
@@ -34,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=signor1&show_icons=true&locale=en" alt="signor1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=signor1&" alt="signor1" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=signor1" alt="signor1" /></a> </p>
