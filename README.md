@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React, Laravel**
 
-- 👨‍💻 All of my projects are available at [signor1.github.io](signor1.github.io)
+- 👨‍💻 All of my projects are available at [signor1.github.io](https://www.signor1.github.io)
 
 - 📫 How to reach me **emmanuelomemgboji@gmail.com**
 
-- 📄 Know about my experiences [signor1.github.io](signor1.github.io)
+- 📄 Know about my experiences [signor1.github.io](https://www.signor1.github.io)
 
 - ⚡ Fun fact **On average, people read 10% slower from a screen than from paper.**
 
