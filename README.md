@@ -1,4 +1,4 @@
-<img src="https://github.com/Signor1/Signor1/blob/f4653768b9862da5bc89232b1f2e5bb514a579f0/file1.png" width="40%" height="300" align="right">
+
 
 <h1 align="center">Hi 👋, I'm Emmanuel Omemgboji</h1>
 <h3 align="center">Welcome to my gitHub profile. I'm a passionate Web developer and a Techie.</h3>
