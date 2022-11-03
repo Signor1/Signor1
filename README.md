@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/onesignor" target="blank"><img src="https://img.shields.io/twitter/follow/onesignor?logo=twitter&style=for-the-badge" alt="onesignor" /></a> </p>
 
-- 🌱 I’m currently learning **React, Laravel**
+- 🌱 I’m currently learning **Nextjs, Laravel**
 
 - 👨‍💻 All of my projects are available at [signor1.github.io](https://www.signor1.github.io)
 
