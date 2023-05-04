@@ -1,7 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omemgboji Emmanuel
 ==========================================================================================================================================
-<img src="https://github.com/Signor1/Signor1/blob/92e042fa9dcf79a5a0e53ef2e9126af61a70f4cc/codingGif.gif" align="right" width="40%" height="410"  />
+<img src="https://github.com/Signor1/Signor1/blob/92e042fa9dcf79a5a0e53ef2e9126af61a70f4cc/codingGif.gif" align="right" width="40%" height="400"  />
 
 
 Developer & Teacher
