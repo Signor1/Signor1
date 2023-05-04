@@ -1,16 +1,13 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omemgboji Emmanuel
 ==========================================================================================================================================
+<img src="https://github.com/Signor1/Signor1/blob/92e042fa9dcf79a5a0e53ef2e9126af61a70f4cc/codingGif.gif" align="right" width="40%"  />
+
 
 Developer & Teacher
 -------------------
 
-<div style="display: flex; align-items: center;">
-<img src="https://github.com/Signor1/Signor1/blob/92e042fa9dcf79a5a0e53ef2e9126af61a70f4cc/codingGif.gif" align="left" style="margin-right: 20px;" />
-
-<p>I'm a frontend engineer and teacher with a passion for building beautiful and intuitive user interfaces. As a teacher, I love helping others discover the joy of coding and empowering them with the skills they need to build amazing things. Whether you're looking for a frontend developer or a teacher, I'm ready to help you take your skills to the next level.</p>
-
-
-
+I'm a frontend engineer and teacher with a passion for building beautiful and intuitive user interfaces. As a teacher, I love helping others discover the joy of coding and empowering them with the skills they need to build amazing things. Whether you're looking for a frontend developer or a teacher, I'm ready to help you take your skills to the next level.
 
 
 * 🌍  I'm based in Anambra, Nigeria
@@ -21,11 +18,15 @@ Developer & Teacher
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love music
 
-</div>
+
 <a href="https://www.github.com/Signor1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Signor1?logo=github&style=for-the-badge&color=10b981&labelColor=0f172a" /></a><a href="https://twitter.com/OneSignor?t=xTu8ujiP_M3nibDoFjsUUA&s=09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/OneSignor?logo=twitter&style=for-the-badge&color=10b981&labelColor=0f172a"
 /></a>
+
+
+
+
 
 ### Skills
 
