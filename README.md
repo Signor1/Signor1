@@ -1,3 +1,7 @@
+<img src="https://github.com/Signor1/Signor1/blob/032e0449b9114b7058585ab2f3034aa394200142/gitCover.gif" width="100%" height="200"/>
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omemgboji Emmanuel
 ==========================================================================================================================================
 
