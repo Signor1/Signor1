@@ -63,5 +63,5 @@ src="https://img.shields.io/twitter/follow/OneSignor?logo=twitter&style=for-the-
 
 Hackathons
 -------------------
-<img src="https://github.com/Signor1/Signor1/blob/c0220b5415a972cd5593e8d65b6be56c83ac2799/certificate.webp" width="50%"/>
+<img src="https://github.com/Signor1/Signor1/blob/c0220b5415a972cd5593e8d65b6be56c83ac2799/certificate.webp" width="30%" height="400"/>
 
