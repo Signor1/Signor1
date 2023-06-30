@@ -1,33 +1,63 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omemgboji Emmanuel
 ==========================================================================================================================================
-
-
-Developer & Teacher
--------------------
-
 I'm a frontend engineer and teacher with a passion for building beautiful and intuitive user interfaces. As a teacher, I love helping others discover the joy of coding and empowering them with the skills they need to build amazing things. Whether you're looking for a frontend developer or a teacher, I'm ready to help you take your skills to the next level.
 
+<br/>
+<br>
 
-* 🌍  I'm based in Anambra, Nigeria
+<a href="https://app.daily.dev/Signor1">
+<img src="https://api.daily.dev/devcards/219bc7e76f4949c8bb023354928b1aca.png?r=gaz" width="400" alt="Emmanuel Omemgboji's Dev Card" align="right"/>
+</a>
+
+
+### Here are some fun facts about me:
+* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [signorDev](http://signor.vercel.app/)
-* ✉️  You can contact me at [emmanuelomemgboji@gmail.com](mailto:emmanuelomemgboji@gmail.com)
-* 🚀  I'm currently working on [An online platform for learning](http://kodexng.com)
-* 🧠  I'm learning Everything JavaScript
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I love music
+* ✉️  You can contact me through [Mail](mailto:emmanuelomemgboji@gmail.com)
+* 🚀  I'm currently looking for a Job as a Frontend Developer
+* 🧠  I'm docile to learning and advancing my knowledge
+* 🤝  I'm open to collaborating with you.
+* 🎵  I love music 
 
+<br/>
+<br>
+<br>
 
-<a href="https://www.github.com/Signor1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Signor1?logo=github&style=for-the-badge&color=10b981&labelColor=0f172a" /></a><a href="https://twitter.com/OneSignor?t=xTu8ujiP_M3nibDoFjsUUA&s=09" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/OneSignor?logo=twitter&style=for-the-badge&color=10b981&labelColor=0f172a"
-/></a>
+### 📩 Connect with me!
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emmanuel-omemgboji-4b92b3140)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/OneSignor?t=xTu8ujiP_M3nibDoFjsUUA&s=09)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:emmanuelomemgboji@gmail.com)
+[<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/omemten.signor)
 
+<br/>
+<br>
+<br>
 
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Signor1&theme=dark&hide_border=true"/>
+</p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Signor1&theme=darkhub&column=-1&margin-w=15">
+</p>
 
-### Skills
+<br/>
+
+### Github Stats 
+
+<p align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Signor1&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Signor1&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
+</p>
+<br>
+<br>
+
+### Languages And Tools
+<div>
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/89584431/216820527-3547f251-7d3e-4362-92eb-c2fd8fc0192a.gif"/>
+<br/>
 
 
 <p align="left">
@@ -47,18 +77,17 @@ src="https://img.shields.io/twitter/follow/OneSignor?logo=twitter&style=for-the-
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
+</div>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/Signor1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emmanuel-omemgboji-4b92b3140" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/OneSignor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<br/>
+<br>
+<br>
 
-### Badges
+#
 
-<b>My GitHub Stats</b>
+**COMPLETED HACKATHONS:** <i>Click the images to find out more!</i>
 
-<a href="http://www.github.com/Signor1"><img src="https://github-readme-stats.vercel.app/api?username=Signor1&show_icons=true&hide=contribs&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Signor1's GitHub stats" width="50%" /></a>
-
-<a href="http://www.github.com/Signor1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Signor1&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="50%" /></a>
 
 Hackathons
 -------------------
