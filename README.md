@@ -35,6 +35,8 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 <br>
 <br>
 
+#
+
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Signor1&theme=dark&hide_border=true"/>
 </p>
@@ -53,6 +55,8 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 </p>
 <br>
 <br>
+
+#
 
 ### Languages And Tools
 
@@ -90,10 +94,8 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 
 #
 
-**COMPLETED HACKATHONS:** <i>Click the images to find out more!</i>
 
-
-Hackathons
+Hackathons <i>Click the images to find out more!</i>
 -------------------
 <p float="left">
   <a href="https://lablab.ai/event/openai-hackathon/gatieon/text-laymanizer" target="_blank">
