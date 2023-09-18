@@ -1,8 +1,10 @@
+<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,</b> I'm Omemgboji Emmanuel
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omemgboji Emmanuel
-==========================================================================================================================================
-I'm a frontend engineer and teacher with a passion for building beautiful and intuitive user interfaces. As a teacher, I love helping others discover the joy of coding and empowering them with the skills they need to build amazing things. Whether you're looking for a frontend developer or a teacher, I'm ready to help you take your skills to the next level.
+</h1>
 
+<p><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="70px" align="left" style="padding-right:20px;">I'm a frontend engineer and teacher with a passion for building beautiful and intuitive user interfaces. As a teacher, I love helping others discover the joy of coding and empowering them with the skills they need to build amazing things. Whether you're looking for a frontend developer or a teacher, I'm ready to help you take your skills to the next level.</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <br>
 
@@ -11,7 +13,7 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 </a>
 
 
-### Here are some fun facts about me:
+### About Me:
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [signorDev](http://signor.vercel.app/)
 * ✍️  See my articles at [Medium](https://medium.com/@emmanuelomemgboji)
@@ -24,7 +26,7 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 <br>
 <br>
 
-### 📩 Connect with me!
+<h3>📩 Let's Connect! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3> 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emmanuel-omemgboji-4b92b3140)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/OneSignor?t=xTu8ujiP_M3nibDoFjsUUA&s=09)
@@ -32,22 +34,15 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 [<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/omemten.signor)
 
 <br/>
+
 <br>
 <br>
 
-#
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Signor1&theme=dark&hide_border=true"/>
-</p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Signor1&theme=darkhub&column=-1&margin-w=15">
-</p>
 
-<br/>
 
-### Github Stats 
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h3>  
 
 <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Signor1&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -55,8 +50,8 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 </p>
 <br>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#
 
 ### Languages And Tools
 
@@ -92,7 +87,7 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 <br>
 <br>
 
-#
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 Hackathons <i>Click the images to find out more!</i>
