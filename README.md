@@ -14,10 +14,10 @@ I'm a frontend engineer and teacher with a passion for building beautiful and in
 ### Here are some fun facts about me:
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [signorDev](http://signor.vercel.app/)
+* ✍️  See my articles at [Medium](https://medium.com/@emmanuelomemgboji)
 * ✉️  You can contact me through [Mail](mailto:emmanuelomemgboji@gmail.com)
-* 🚀  I'm currently looking for a Job as a Frontend Developer
+* 🚀  I'm open for Frontend Jobs and collaborations
 * 🧠  I'm docile to learning and advancing my knowledge
-* 🤝  I'm open to collaborating with you.
 * 🎵  I love music 
 
 <br/>
