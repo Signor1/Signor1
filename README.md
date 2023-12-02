@@ -45,7 +45,8 @@
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h3>  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Signor1&theme=darkhub&column=-1&margin-w=15">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Signor1&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Signor1&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
 </p>
 <br>
 <br>
