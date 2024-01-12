@@ -8,8 +8,8 @@
 <br/>
 <br>
 
-<a href="https://app.daily.dev/Signor1">
-<img src="https://api.daily.dev/devcards/219bc7e76f4949c8bb023354928b1aca.png?r=gaz" width="400" alt="Emmanuel Omemgboji's Dev Card" align="right"/>
+<a href="https://app.daily.dev/signor1">
+<img src="https://api.daily.dev/devcards/219bc7e76f4949c8bb023354928b1aca.png?r=4zh" width="400" alt="Emmanuel Omemgboji's Dev Card"/>
 </a>
 
 
