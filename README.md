@@ -17,7 +17,7 @@
 * 🖥️  See my portfolio at [signorDev](http://signor.vercel.app/)
 * ✍️  See my articles at [Medium](https://medium.com/@emmanuelomemgboji) & [Hashnode](https://signordev.hashnode.dev/)
 * ✉️  You can contact me through [Mail](mailto:emmanuelomemgboji@gmail.com)
-* 🚀  I'm open for Frontend Jobs and collaborations
+* 🚀  I'm open for Frontend & Smart Contract Jobs
 * 🧠  I'm docile to learning and advancing my knowledge
 * 🎵  I love music 
 
