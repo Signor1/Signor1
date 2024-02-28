@@ -1,29 +1,26 @@
-<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,</b> I'm Omemgboji Emmanuel
+<h2 align="center"><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,</b> I'm Omemgboji Emmanuel</h2>
 
-</h1>
+<p> Started as a frontend engineer, building beautiful and intuitive user interfaces with (HTML, CSS, SASS, LESS, Bootstrap, TailwindCSS, VanillaJs, jQuery, TypeScript, ReactJs, NextJs).</p>
 
-<p>I'm a frontend engineer with years of experience in building beautiful and intuitive user interfaces. I'm also a blockchain enthusiast.</p>
+<p>Now a Blockchain Developer, writing Smart Contracts and working with (Solidity, Hardhat, Ethersjs, Web3js, ReactJs, NextJs, TypeScript).</p>
 
-<br>
 
 <a href="https://app.daily.dev/signor1">
-<img src="https://api.daily.dev/devcards/v2/zNH050Bzsh9cFQe9yfGRF.png?type=default&r=rf9" width="356" align="right" alt="Signor Dev's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/zNH050Bzsh9cFQe9yfGRF.png?type=wide&r=0jq" width="652" align="left" alt="Signor Dev's Dev Card"/>
 </a>
 
 
-
 ### About Me:
-* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [signorDev](http://signor.vercel.app/)
-* ✍️  See my articles at [Medium](https://medium.com/@emmanuelomemgboji) & [Hashnode](https://signordev.hashnode.dev/)
-* ✉️  You can contact me through [Mail](mailto:emmanuelomemgboji@gmail.com)
-* 🚀  I'm open for Frontend & Smart Contract Jobs
-* 🧠  I'm docile to learning and advancing my knowledge
-* 🎵  I love music 
+* ✍️  Check out my contents at [Medium](https://medium.com/@emmanuelomemgboji) & [Hashnode](https://signordev.hashnode.dev/)
+* ✉️  You can contact me via [Mail](mailto:emmanuelomemgboji@gmail.com)
+* 🚀  I'm open for collaborations and jobs
+* 🧠  I'm docile to learning, researching and advancing my knowledge
+* 🎵  I love music a lot 
 
 <br/>
-<br>
-<br>
+<br/>
+<br/>
 
 <h3>📩 Let's Connect! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3> 
 
@@ -32,32 +29,17 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:emmanuelomemgboji@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/omemten.signor)
 
-<br/>
-
-<br>
-<br>
 
 
-### Languages And Tools
+### Stats
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=signor1&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=signor1&langs_count=8&layout=compact&theme=transparent" />
+</a>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="SASS"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwindcss"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="Javascript"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="typescript"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="jQuery"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="php"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="laravel"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-
-<br>
 
 Hackathons <i>Click the images to find out more!</i>
 -------------------
