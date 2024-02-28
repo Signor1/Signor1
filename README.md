@@ -6,7 +6,7 @@
 
 
 <a href="https://app.daily.dev/signor1">
-  <img src="https://api.daily.dev/devcards/v2/zNH050Bzsh9cFQe9yfGRF.png?type=wide&r=0jq" width="652" align="left" alt="Signor Dev's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/zNH050Bzsh9cFQe9yfGRF.png?type=wide&r=0jq" width="500" align="left" alt="Signor Dev's Dev Card"/>
 </a>
 
 
