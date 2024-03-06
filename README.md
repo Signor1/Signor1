@@ -41,7 +41,8 @@
 </a>
 
 
-Hackathons <i>Click the images to find out more!</i>
+### Hackathons 
+#### Click the images to find out more!
 -------------------
 <p float="left">
   <a href="https://lablab.ai/event/openai-hackathon/gatieon/text-laymanizer" target="_blank">
