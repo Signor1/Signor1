@@ -15,7 +15,7 @@
 * ✍️  Check out my contents at [Medium](https://medium.com/@emmanuelomemgboji) & [Hashnode](https://signordev.hashnode.dev/)
 * ✉️  You can contact me via [Mail](mailto:emmanuelomemgboji@gmail.com)
 * 🚀  I'm open for collaborations and jobs
-* 🧠  I'm docile to learning, researching and advancing my knowledge
+* 🧠  I'm currently learning Rust language
 * 🎵  I love music a lot 
 
 <br/>
