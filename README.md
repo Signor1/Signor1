@@ -2,7 +2,7 @@
 
 <p> Started as a frontend engineer, building beautiful and intuitive user interfaces with (HTML, CSS, SASS, LESS, Bootstrap, TailwindCSS, VanillaJs, jQuery, TypeScript, ReactJs, NextJs).</p>
 
-<p>Now a Blockchain Developer, writing Smart Contracts and working with (Solidity, Cairo, Hardhat, Foundry, Ethersjs, Web3js, ReactJs, NextJs, TypeScript).</p>
+<p>Now a Blockchain Developer, writing Smart Contracts and working with (Solidity, Cairo, Hardhat, Foundry, Ethersjs, Web3js, ReactJs, NextJs, TypeScript, StarknetJs).</p>
 
 
 <a href="https://app.daily.dev/signor1">
@@ -16,7 +16,8 @@
 * ✉️  You can contact me via [Mail](mailto:emmanuelomemgboji@gmail.com)
 * 🚀  I'm open for collaborations and jobs
 * 🧠  I'm currently learning Rust language
-* 🎵  I love music a lot 
+* 🎵  I love music a lot
+* 👨🏽‍💻 Co-founding a startup
 
 <br/>
 <br/>
