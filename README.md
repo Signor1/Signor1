@@ -52,5 +52,9 @@
   <a href="https://lablab.ai/event/anthropic-ai-hackathon/cognitive-crafters/smart-customer-support-chatbot" target="_blank">
      <img src="https://github.com/DonGuillotine/DonGuillotine/assets/89584431/aaa139b4-57ca-4568-8bcf-d86492a333d5" width="400">
   </a>
+  &nbsp;
+  <a href="https://lisk-blockchange-2024.devpost.com/project-gallery" target="_blank">
+    <img src="https://pbs.twimg.com/media/GPtgITUW4AAD05F?format=jpg&name=small" width="400"/>
+  </a>
 </p>
 
