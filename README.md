@@ -2,7 +2,7 @@
 
 <p> Started as a frontend engineer, building beautiful and intuitive user interfaces with (HTML, CSS, SASS, LESS, Bootstrap, TailwindCSS, VanillaJs, jQuery, TypeScript, ReactJs, NextJs).</p>
 
-<p>Now a Blockchain Developer, writing Smart Contracts and working with (Solidity, Cairo, Hardhat, Foundry, Ethersjs, Web3js, ReactJs, NextJs, TypeScript, StarknetJs).</p>
+<p>Now a Full Stack Web3 Developer, writing Smart Contracts and working with (Solidity, Cairo, Hardhat, Foundry, Ethersjs, Web3js, ReactJs, NextJs, TypeScript, StarknetJs).</p>
 
 
 <a href="https://app.daily.dev/signor1">
