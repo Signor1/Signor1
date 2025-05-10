@@ -1,8 +1,8 @@
 <h2 align="center"><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,</b> I'm Omemgboji Emmanuel</h2>
 
-<p> Started as a frontend engineer, building beautiful and intuitive user interfaces with (HTML, CSS, SASS, LESS, Bootstrap, TailwindCSS, VanillaJs, jQuery, TypeScript, ReactJs, NextJs).</p>
+<p> I began my journey as a Full-Stack Web Developer, building dynamic, robust, and scalable web applications. My focus was on creating both intuitive and pixel-perfect user interfaces, while also implementing efficient backend logic and database management. My tech stack included HTML, CSS, SASS, LESS, Bootstrap, TailwindCSS, VanillaJS, jQuery, TypeScript, ReactJS, NextJS, PHP, Laravel, and MySQL.</p>
 
-<p>Now a Full Stack Web3 Developer, writing Smart Contracts and working with (Solidity, Cairo, Hardhat, Foundry, Ethersjs, Web3js, ReactJs, NextJs, TypeScript, StarknetJs).</p>
+<p>Now, as a Full-Stack Web3 Developer, I architect decentralized applications and write efficient smart contracts to enable secure, on-chain interactions. My expertise spans Solidity, Cairo, Rust, Move, and libraries such as Ethers.js, Wagmi, and Starknet.js. I build complete blockchain solutions that seamlessly integrate decentralized logic with responsive front-end interfaces.</p>
 
 
 <a href="https://app.daily.dev/signor1">
