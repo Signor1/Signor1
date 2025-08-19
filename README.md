@@ -12,11 +12,11 @@
 
 ### About Me:
 * 🖥️  See my portfolio at [signorDev](http://signor.vercel.app/)
-* ✍️  Check out my contents at [Medium](https://medium.com/@emmanuelomemgboji) & [Hashnode](https://signordev.hashnode.dev/)
+* ✍️  Check out my contents at [Medium](https://medium.com/@emmanuelomemgboji)
 * ✉️  You can contact me via [Mail](mailto:emmanuelomemgboji@gmail.com)
 * 🚀  I'm open for collaborations and jobs
 * 🎵  I love music a lot
-* 👨🏽‍💻 Co-founding Strimz
+
 
 <br/>
 <br/>
