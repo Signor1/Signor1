@@ -7,11 +7,6 @@
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@emmanuelomemgboji)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:emmanuelomemgboji@gmail.com)
 
-### Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=signor1&show_icons=true&theme=transparent" />
-</a>
 
 
 
